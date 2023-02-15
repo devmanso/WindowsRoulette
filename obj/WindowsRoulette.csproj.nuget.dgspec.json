@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\manso\\source\\repos\\WindowsRoulette\\WindowsRoulette\\WindowsRoulette.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\manso\\source\\repos\\WindowsRoulette\\WindowsRoulette\\WindowsRoulette.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\manso\\source\\repos\\WindowsRoulette\\WindowsRoulette\\WindowsRoulette.csproj",
+        "projectName": "WindowsRoulette",
+        "projectPath": "C:\\Users\\manso\\source\\repos\\WindowsRoulette\\WindowsRoulette\\WindowsRoulette.csproj",
+        "packagesPath": "C:\\Users\\manso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manso\\source\\repos\\WindowsRoulette\\WindowsRoulette\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\dev\\visualStudio\\shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\manso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

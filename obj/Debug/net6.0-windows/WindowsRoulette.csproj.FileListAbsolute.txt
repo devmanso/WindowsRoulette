@@ -1,0 +1,17 @@
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\bin\Debug\net6.0-windows\WindowsRoulette.exe
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\bin\Debug\net6.0-windows\WindowsRoulette.deps.json
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\bin\Debug\net6.0-windows\WindowsRoulette.runtimeconfig.json
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\bin\Debug\net6.0-windows\WindowsRoulette.dll
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\bin\Debug\net6.0-windows\WindowsRoulette.pdb
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\WindowsRoulette.csproj.AssemblyReference.cache
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\WindowsRoulette.Form1.resources
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\WindowsRoulette.csproj.GenerateResource.cache
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\WindowsRoulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\WindowsRoulette.AssemblyInfoInputs.cache
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\WindowsRoulette.AssemblyInfo.cs
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\WindowsRoulette.csproj.CoreCompileInputs.cache
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\WindowsRoulette.dll
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\refint\WindowsRoulette.dll
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\WindowsRoulette.pdb
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\WindowsRoulette.genruntimeconfig.cache
+C:\Users\manso\source\repos\WindowsRoulette\WindowsRoulette\obj\Debug\net6.0-windows\ref\WindowsRoulette.dll
